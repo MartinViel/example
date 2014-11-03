@@ -14,5 +14,6 @@ int main(int argc, char **argv)
 	return 0;
 
 	/* Kommentar für den Unterschied */
+	/* Kommentar für den Unterschied 2 */
 
 }
